@@ -1,2 +1,2 @@
 # JAVACRUD
-<img src="screenshot/4번 실행 화면.png" />
+![4번 실행화면](./screenshot/4번 실행화면.png)
