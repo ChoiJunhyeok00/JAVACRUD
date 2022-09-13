@@ -31,14 +31,23 @@ public class WordManager {
                 System.out.println("시스템 종료! 다음에 만나요~");
                 break;
             }
-            if(menu == 4){
-                wordCRUD.addWord();
+            if(menu == 4) {
+                wordCRUD.addItem();
             }
-            else if(menu == 1){
+            else if(menu == 1) {
                 wordCRUD.listAll();
             }
-            else if(menu == 2){
+            else if(menu == 2) {
 
+            }
+            else if(menu == 3) {
+
+            }
+            else if(menu == 5) { // update
+                wordCRUD.updateItem();
+            }
+            else if(menu == 6) { // delete
+                wordCRUD.deleteItem();
             }
         }
     }
