@@ -42,7 +42,7 @@ public class WordManager {
                 wordCRUD.selectLevel();
             }
             else if(menu == 3) {
-
+                wordCRUD.searchWord();
             }
             else if(menu == 5) { // update
                 wordCRUD.updateItem();
