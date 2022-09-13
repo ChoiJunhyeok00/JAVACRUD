@@ -1,0 +1,4 @@
+1| ant|개미
+1| kakao|카카오
+1| project|프로젝트
+2| protein|단백질
