@@ -2,3 +2,4 @@
 1| kakao|카카오
 1| project|프로젝트
 2| protein|단백질
+3| delusion|망상
