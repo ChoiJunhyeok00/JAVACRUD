@@ -25,7 +25,7 @@ public class WordCRUD implements ICRUD{
         return new Word(0, level, word, meaning);
     }
     public void addItem(){
-        Word one = (Word)add(); // 이거 무슨 문법인지 모르겠음
+        Word one = (Word)add();
         list.add(one);
         System.out.println("\n새 단어가 단어장에 추가되었습니다.\n");
     }
