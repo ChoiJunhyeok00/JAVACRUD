@@ -26,5 +26,4 @@
 <img src="./screenshot/7.png">
 
 ### Dictionary
-<img src="./screenshot/Dictionary.png">
-<img src="./screenshot/Dictionary address.png">
+<img src="./screenshot/99.png">
