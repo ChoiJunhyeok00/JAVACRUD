@@ -28,4 +28,4 @@
 ### Dictionary
 <img src="./screenshot/99.png">
 
-^^
+^^ ./
